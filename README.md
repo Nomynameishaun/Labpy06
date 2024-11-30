@@ -1,5 +1,5 @@
 # labpy05
-# Program Input Data list Sederhana
+# Program Input Data list Sederhana menggunakan fungsi def()
 Program sederhana ini ditulis dalam Python untuk pengguna memasukkan data dan menghitung nilai akhir berdasarkan bobot nilai tugas, UTS, dan UAS, lalu menampilkan data tersebut dalam format tabel yang rapih.
 ```ruby
 print("Halo selamat datang, silahkan masukan T untuk memulai input data!")
